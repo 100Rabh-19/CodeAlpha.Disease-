@@ -38,13 +38,6 @@ Predict whether a patient is likely to have heart disease based on medical param
 
 ---
 
-## 📁 Files in the Repository
-📦 disease-prediction
-┣ 📜 app.py
-┣ 📜 model.pkl
-┣ 📜 requirements.txt
-┗ 📜 README.md
-
 
 ---
 
